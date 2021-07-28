@@ -1,0 +1,16 @@
+C:\Users\miwam\source\repos\Figures\bin\Debug\net5.0\Figures.exe
+C:\Users\miwam\source\repos\Figures\bin\Debug\net5.0\Figures.deps.json
+C:\Users\miwam\source\repos\Figures\bin\Debug\net5.0\Figures.runtimeconfig.json
+C:\Users\miwam\source\repos\Figures\bin\Debug\net5.0\Figures.runtimeconfig.dev.json
+C:\Users\miwam\source\repos\Figures\bin\Debug\net5.0\Figures.dll
+C:\Users\miwam\source\repos\Figures\bin\Debug\net5.0\ref\Figures.dll
+C:\Users\miwam\source\repos\Figures\bin\Debug\net5.0\Figures.pdb
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.csproj.AssemblyReference.cache
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.AssemblyInfoInputs.cache
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.AssemblyInfo.cs
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.dll
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\ref\Figures.dll
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.pdb
+C:\Users\miwam\source\repos\Figures\obj\Debug\net5.0\Figures.genruntimeconfig.cache
